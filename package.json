@@ -1,7 +1,7 @@
 {
-  "name": "react-typescript-webpack-starter",
+  "name": "studayipp",
   "version": "1.0.0",
-  "description": "A starter template for React with Typescript using Webpack 5",
+  "description": "A social media for students by students",
   "theme-color": "#000000",
   "background-color": "#ffffff",
   "scripts": {
@@ -17,10 +17,10 @@
     "React",
     "TypeScript",
     "Webpack 5",
-    "Starter Template",
-    "Boilerplate"
+    "Social Media",
+    "Education Platform"
   ],
-  "author": "Vishwas",
+  "author": "Rohit, Sunith, Salman, Steve, Ameen ",
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.11.4",

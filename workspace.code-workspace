@@ -25,14 +25,21 @@
 			"tsconfig.json": true,
 			"setupTests.js": true,
 			"__tests__/__snapshots__":true,
-			"functions/yarn.lock":true
+			"functions/yarn.lock":true,
+			"web/index.html": true,
+			"web/robots.txt": true
+
 		},
 		"eslint.validate": ["typescript", "javascript", "javascriptreact", "typescriptreact"],
 		"editor.codeActionsOnSave": {
 			"source.fixAll.eslint": true
 		},
 		"cSpell.words": [
+			"Ameen",
 			"Cacheable",
+			"Rohit",
+			"Salman",
+			"Sunith",
 			"Vishwas",
 			"allman",
 			"anseki",
@@ -47,6 +54,7 @@
 			"precache",
 			"precaching",
 			"serviceworker",
+			"studayipp",
 			"webfonts",
 			"webp",
 			"wojtekmaj"
