@@ -2,6 +2,7 @@ import { Workbox } from "workbox-window";
 import ReactDOM from "react-dom";
 import { HandleAppState } from "./components/HandleAppState";
 import SignIn from "./routes/SignIn";
+import Create from "./routes/Create";
 
 const wb = new Workbox("sw.js");
 
@@ -18,7 +19,7 @@ const App = ({wb}: { wb: Workbox; }) =>
         <>
             <HandleAppState wb={wb} /> 
             <SignIn />
-        </>
+            <Create />     </>
     );
 };
 
