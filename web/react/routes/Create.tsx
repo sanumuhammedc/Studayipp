@@ -79,7 +79,7 @@ export default function MultipleSelect()
             </FormControl>
             <br/><br/>
             <FormControl>
-                <label>Upload material:</label>
+                <h5>Upload File:</h5>
                 <Input type="file"></Input>
             </FormControl>
             <br/><br/>
